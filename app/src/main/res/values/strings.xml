@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MyCustomROMs</string>
+
+    <string name="roms_name">Rom Name</string>
+    <string name="description">Description</string>
+    <string name="about">About Me</string>
+    <string name="author">Jordi Irawan</string>
+    <string name="email">jordirwn@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>LineageOS</item>
+        <item>Pixel Experience</item>
+        <item>Resurrection Remix</item>
+        <item>ArrowOS</item>
+        <item>BlissROMs</item>
+        <item>RevengeOS</item>
+        <item>Evolution X</item>
+        <item>Corvus OS</item>
+        <item>Project Sakura</item>
+        <item>DerpFest</item>
+        <item>BootleggersROM</item>
+        <item>POSP</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>LineageOS is an open source Android-based operating system for smartphones, tablet computers, and set-top boxes. It is the successor to CyanogenMod, from which it was forked in December 2016, when Cyanogen Inc. announced it was discontinuing development and shut down the infrastructure behind the project.</item>
+        <item>PixelExperience is a discontinued open-sourced custom ROM, or Android distribution, based on the stock Android AOSP that aimed to provide a bloat-free, stock-android, Pixel-like experience to a wide range of Android devices.</item>
+        <item>Resurrection Remix OS, abbreviated as RR, is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform. UX designer and head developer Altan KRK &amp; Varun Date started the project in 2012.</item>
+        <item>ArrowOS is an AOSP/CAF based project started with the aim of keeping things simple, clean and neat. We added just the right and mostly used stuff that will be actually USEFUL at the end of the day.</item>
+        <item>BlissRoms, an open-source operating system built upon Android Open Source Project, that offers a harmonious blend of customization, options, and security features. With a commitment to delivering pure bliss in every build, it brings with it a world of limitless possibilities.</item>
+        <item>RevengeOS is an operating system based on Android Open Source Project, built with a unique look and performance in mind. It\'s daily usage ready, lightweight and elegant.</item>
+        <item>Evolution X is a flashable custom ROM to bring a true Pixel feel to your Android Device at first glance, with many additional configurations at your disposal. We aim to provide frequent builds with monthly security patches from the latest AOSP sources!</item>
+        <item>Corvus OS is based on AOSP, with all the useful features required. Our objective is stability while being feature-rich at the same time. We won\'t believe that Corvus is better ROM than others, but we will always try to give you the best.</item>
+        <item>Project Sakura is a custom ROM based on Lineage OS, It tries to remain true to it while also providing some more functionality and UI changes. Its sole purpose is to provide a platform which is powered by Lineage and is more customisable than Lineage.</item>
+        <item>We are an AOSP based custom ROM, twisted with the latest features from all over the Android development community. Quality and stability is our first priority as we are dedicated to bringing you the best Android has to offer.</item>
+        <item>Bootleggers ROM is a AOSP based ROM with some extra patches anf features from other projects, like LineageOS, Dirty Unicorns, PixelExperience, OmniROM, and many more. Our goal is trying to add the best to make you feel like 家. With all those feature, we also have some extra apps, themes and wallpaper to try to give you a great experience since the first boot.</item>
+        <item>POSP is a custom ROM that is based on AOSP, with some extra features that you can use to customize your device. We are dedicated to providing you with the best experience possible, and we will continue to update the ROM with new features and improvements.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/lineageos</item>
+        <item>@drawable/pixel_experience</item>
+        <item>@drawable/resurrection_remix</item>
+        <item>@drawable/arrowos</item>
+        <item>@drawable/blissroms</item>
+        <item>@drawable/revengeos</item>
+        <item>@drawable/evolution_x</item>
+        <item>@drawable/corvus_os</item>
+        <item>@drawable/project_sakura</item>
+        <item>@drawable/derpfest</item>
+        <item>@drawable/bootleggersrom</item>
+        <item>@drawable/posp</item>
+    </integer-array>
+</resources>
